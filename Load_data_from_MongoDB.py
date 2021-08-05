@@ -36,3 +36,4 @@ table = TableName("Schema",'Table')
 
 # Convert dataframe thành Hyper và xuất file
 pantab.frame_to_hyper(data,path_to_hyper,table=table, table_mode='a')
+#Them thay đổi 
